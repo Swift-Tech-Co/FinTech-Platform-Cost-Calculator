@@ -1,0 +1,12 @@
+{
+  "name": "fintech-platform-cost-calculator",
+  "version": "1.0.0",
+  "description": "FinTech platform cost and timeline estimator — Swift Tech Co.",
+  "main": "calculator.js",
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "keywords": ["fintech", "calculator", "cost-estimation", "swift-tech-co"],
+  "license": "MIT",
+  "homepage": "https://swifttechco.com/services/fintech/fintech-platform"
+}
