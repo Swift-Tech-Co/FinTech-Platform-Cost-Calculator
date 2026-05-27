@@ -1,5 +1,15 @@
 ﻿# FinTech Platform Cost Calculator
+[![npm](https://img.shields.io/npm/v/fintech-platform-cost-calculator.svg)](https://www.npmjs.com/package/fintech-platform-cost-calculator) [![npm downloads](https://img.shields.io/npm/dm/fintech-platform-cost-calculator.svg)](https://www.npmjs.com/package/fintech-platform-cost-calculator)
 
+## Install
+
+```bash
+npm install fintech-platform-cost-calculator
+```
+
+```javascript
+const calc = require('fintech-platform-cost-calculator');
+```
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Interactive Tool](https://img.shields.io/badge/Interactive-Tool-informational)](https://swifttechco.com) [![Swift Tech Co.](https://img.shields.io/badge/Swift%20Tech-Co.-gold)](https://swifttechco.com)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen)](https://swifttechco.com)
