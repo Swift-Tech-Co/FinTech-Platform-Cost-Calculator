@@ -1,0 +1,15 @@
+{
+  "name": "fintech-platform-cost-calculator",
+  "version": "1.0.0",
+  "description": "Estimate FinTech platform build cost and timeline by platform type, user scale, compliance level, and feature set.",
+  "main": "javascript/calculator.js",
+  "scripts": { "cli": "node javascript/cli.js" },
+  "keywords": ["fintech","cost-calculator","payment-gateway","neobank","digital-wallet","crypto","swift-tech-co"],
+  "author": "Swift Tech Co. <swifttechcocanada@gmail.com> (https://swifttechco.com)",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/Swift-Tech-Co/FinTech-Platform-Cost-Calculator.git" },
+  "bugs": { "url": "https://github.com/Swift-Tech-Co/FinTech-Platform-Cost-Calculator/issues" },
+  "homepage": "https://swifttechco.com/tools/fintech-platform-cost-calculator",
+  "engines": { "node": ">=14" },
+  "files": ["javascript/calculator.js", "README.md", "LICENSE"]
+}
